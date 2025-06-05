@@ -1,0 +1,13 @@
+[33m2a6d38a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Ajout de nouvelles images
+[33m3aa8285[m premier commit
+[33mb4d414b[m premier commit
+[33mcommit ec424b8aa7955f07fd2f9edb1a18ce2f7f04e9eb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: unknown <finabadji30@gmail.com>
+Date:   Thu Jun 5 02:47:52 2025 +0000
+
+    Description des modifications
+
+[1mdiff --git a/image/ANSD.jpg b/image/ANSD.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..aaf8978[m
+Binary files /dev/null and b/image/ANSD.jpg differ
